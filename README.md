@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/GvYCWPtq/profile.png" alt="cover image" width="100%" />
+</p>
+
+
+
 # Hi, 👋 I'm Ashikuzzaman Riyad
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77676&width=600&lines=MERN+Stack+Developer)](https://git.io/typing-svg)
-)
+
 
 ### 🌟 About Me
 
