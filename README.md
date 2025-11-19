@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashikuzzaman Riyad</h1>
 ### 🌟 About Me
 
-Hi, I'm **Ashikuzzaman Riyad**, a passionate **MERN Stack Developer** from **Jashore, Khulna, Bangladesh 🇧🇩**.  
+Hi, I'm **Ashikuzzaman Riyad**, a passionate **MERN Stack Developer
 I love creating clean, modern, and responsive web applications with beautiful UI/UX.  
 
 - 💻 **Hobbies / Interests:** Coding, learning new technologies, building scalable web apps  
