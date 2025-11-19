@@ -112,8 +112,9 @@ I love creating clean, modern, and responsive web applications with beautiful UI
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikuzzaman-riyad&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikuzzaman-riyad&theme=dark" alt="GitHub Streak" />
 </p>
+
 
 
 
