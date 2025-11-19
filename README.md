@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/GvYCWPtq/profile.png" alt="cover image" width="100%" />
+  <img src="https://i.ibb.co.com/DPR7LvZp/gitgitgit.png" width="100%" />
 </p>
 
 
