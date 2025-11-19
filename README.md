@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/DPR7LvZp/gitgitgit.png" width="100%" style="height: auto;" />
+  <img src="https://i.ibb.co.com/MxjG32Lp/ASHIKUZZAMAN-RIYAD.png" width="100%" style="height: auto;" />
 </p>
 
 
