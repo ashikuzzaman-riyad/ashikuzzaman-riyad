@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashikuzzaman Riyad</h1>
+# Hi, 👋 I'm Ashikuzzaman Riyad
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F77676&width=600&lines=MERN+Stack+Developer)](https://git.io/typing-svg)
+)
+
 ### 🌟 About Me
+
 
 Hi, I'm **Ashikuzzaman Riyad**, a passionate **MERN Stack Developer**
 I love creating clean, modern, and responsive web applications with beautiful UI/UX.  
