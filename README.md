@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/MxjG32Lp/ASHIKUZZAMAN-RIYAD.png" width="100%" style="height: auto;" />
+  <img src="https://i.ibb.co/MxjG32Lp/ASHIKUZZAMAN-RIYAD.png" width="100%" style="height: 100%;" />
 </p>
+
 
 
 # Hi, 👋 I'm Ashikuzzaman Riyad
