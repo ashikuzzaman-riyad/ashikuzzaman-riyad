@@ -1,9 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashikuzzaman Riyad</h1>
-<h3 align="center">"Hi, I'm Ashikuzzaman Riyad — a MERN Stack Developer passionate about building modern, fast, and scalable web applications. I love working with React, Node.js, MongoDB, and clean UI/UX."</h3>
+### 🌟 About Me
+
+Hi, I'm **Ashikuzzaman Riyad**, a passionate **MERN Stack Developer** from **Jashore, Khulna, Bangladesh 🇧🇩**.  
+I love creating clean, modern, and responsive web applications with beautiful UI/UX.  
+
+- 💻 **Hobbies / Interests:** Coding, learning new technologies, building scalable web apps  
+- 🚀 **Specializing in:** React, JavaScript & TailwindCSS
+- 🎨 **Focused on:** UI/UX, clean design, and responsive layouts  
+- 🌱 **Currently learning:** Advanced Next.js & backend optimization  
+- 💡 **Passionate about:** Building meaningful digital products and improving user experiences
 
 
 
-- 🔭 I’m currently working on [Zap-shift-app](https://github.com/riyadhossen74/my-zap-shift-app-client.git)
+
 
 - ### 🧩 Skills Overview
 
@@ -84,9 +93,17 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashikuzzaman-riyad&label=Profile%20views&color=0e75b6&style=flat" alt="ashikuzzaman-riyad" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikuzzaman-riyad&show_icons=true&locale=en&layout=compact" alt="ashikuzzaman-riyad" /></p>
+<p float="left" align="center" ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashikuzzaman-riyad&show_icons=true&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashikuzzaman-riyad&show_icons=true&theme=radical&locale=en" width="50%" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashikuzzaman-riyad&show_icons=true&locale=en" alt="ashikuzzaman-riyad" /></p>
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikuzzaman-riyad&theme=radical" alt="GitHub Streak" />
+</p>
+
 
 
 
