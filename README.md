@@ -46,12 +46,13 @@
 <h3 align="left">Backend Frameworks:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="40" height="40" alt="Express.js"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
   </a>
 </p>
+
 
 <h3 align="left">Database:</h3>
 <p align="left">
@@ -71,9 +72,10 @@
 </p>
 
 
+- 🌱 I’m currently learning **Next.js** <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="20"/>
 
 
-- 🌱 I’m currently learning **next.js**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
