@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/DPR7LvZp/gitgitgit.png" width="100%" />
+  <img src="https://i.ibb.co/DPR7LvZp/gitgitgit.png" width="100%" style="height: auto;" />
 </p>
-
 
 
 # Hi, 👋 I'm Ashikuzzaman Riyad
