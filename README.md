@@ -101,9 +101,8 @@ I love creating clean, modern, and responsive web applications with beautiful UI
 <p align="left">
 <a href="https://fb.com/riyad.hossen.74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyad.hossen.74" height="30" width="40" /></a>
 <a href="https://instagram.com/riyad.hossen.74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyad.hossen.74" height="30" width="40" /></a>
-<!-- LinkedIn -->
-<!-- LinkedIn -->
-<a href="ashikuzzaman-riyad" target="_blank">
+
+<a href="https://www.linkedin.com/in/ashikuzzaman-riyad" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"  />
   </a>
 
