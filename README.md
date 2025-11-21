@@ -101,14 +101,15 @@ I love creating clean, modern, and responsive web applications with beautiful UI
 <p align="left">
 <a href="https://fb.com/riyad.hossen.74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riyad.hossen.74" height="30" width="40" /></a>
 <a href="https://instagram.com/riyad.hossen.74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riyad.hossen.74" height="30" width="40" /></a>
-  <a href="https://instagram.com/ashikuzzaman-riyad" target="_blank">
+<a href="https://x.com/ashikuzzaman_ri" target="_blank">
   <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-       alt="ashikuzzaman-riyad" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+       alt="twitter-x" 
        height="30" 
        width="40" 
   />
 </a>
+
 
 </p>
 
